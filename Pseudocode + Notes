@@ -1,0 +1,21 @@
+# Pseudocode
+
+    ## Food Ordering App
+1.	Loading screen with the name of the app( Skip the dishes for ex) and an image
+
+2 . Opening screen ( Main name of the name – button to navigate to the menu – video – address – contact -  
+
+3. Grid view for multiple dishes images - include  name - and a button for ordering.
+
+4. Images are clicked - video about that food + food description text +amount 
+
+5. Ordering button is clicked -Information activity which will retrieve customers info for the delivery -> Order confirmation.
+
+6. Next screen activity will generate:
+    + What dishes on the order -prices -amount.
+    + Total expenses ( tax + total cost + delivery fee)
+    + Estimated time depend on the number of items in the order
+    + Customer order 's information (...) for the delivery
+    + Button for confirm
+    
+7. Last screen will generate a thank you statement by using animation and images review feedback (advanced feature)
