@@ -6,6 +6,7 @@
 2 . Opening screen ( Main name of the name – button to navigate to the menu – video – address – contact -  
 
 3. Grid view for multiple dishes images - include  name - and a button for ordering.
+    + Looking up menu bar // Could be advanced by using dynamic search bar.
 
 4. Images are clicked - video about that food + food description text +amount 
 
@@ -17,5 +18,6 @@
     + Estimated time depend on the number of items in the order
     + Customer order 's information (...) for the delivery
     + Button for confirm
-    
-7. Last screen will generate a thank you statement by using animation and images review feedback (advanced feature)
+7. Screen for review, feedback, rating.
+
+8. Last screen will generate a thank you statement by using animation and images (advanced feature)
